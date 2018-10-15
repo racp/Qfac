@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Qfac
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: Ruben Castellanos
+Implementation-Vendor-Id: com.quickFac
+Build-Jdk: 1.8.0_172
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/qfac
+Created-By: Maven Integration for Eclipse
+
